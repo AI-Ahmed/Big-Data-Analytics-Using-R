@@ -11,6 +11,4 @@ Is it the perfect language to use?
 <strong><em>R</em></strong> or <strong><em>Python</em></strong> ... you the one who decides. 
 </p>
 
-<h4><strong><em>Signature</em></strong></h4>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/72295771/95022120-83605180-0675-11eb-8e6c-310fb392a267.png" width="250" height="250" />
 
